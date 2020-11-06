@@ -1,100 +1,100 @@
 [
   {
-    "group_id": 1,
-    "group_title": "Information about Vinted",
+    "id": 1,
+    "title": "Information about Vinted",
     "forums": [
       {
         "id": 1,
         "title": "Forum rules and getting started!",
         "body": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
         "username": "secondchancesboutique",
-        "topics_amount": 12,
-        "comments_amount": 123,
-        "days_ago": 3
+        "topicsAmount": 12,
+        "commentsAmount": 123,
+        "daysAgo": 3
       },
       {
         "id": 2,
         "title": "Vinted News!",
         "body": "This forum section is archived and remains for information only!",
         "username": "secondchancesboutique",
-        "topics_amount": 12,
-        "comments_amount": 123,
-        "days_ago": 3
+        "topicsAmount": 12,
+        "commentsAmount": 123,
+        "daysAgo": 3
       }
     ]
   },
   {
-    "group_id": 2,
-    "group_title": "Vinted Parents about Vinted",
+    "id": 2,
+    "title": "Vinted Parents about Vinted",
     "forums": [
       {
         "id": 3,
         "title": "Introduce yourself!!",
         "body": "Before you start, introduce yourself to other Vinted Moms :)!",
         "username": "secondchancesboutique",
-        "topics_amount": 12,
-        "comments_amount": 123,
-        "days_ago": 3
+        "topicsAmount": 12,
+        "commentsAmount": 123,
+        "daysAgo": 3
       },
       {
         "id": 4,
         "title": "Pregnancy and birth!!",
         "body": "Share your experience or ask questions about pregnancy and birth here!",
         "username": "secondchancesboutique",
-        "topics_amount": 12,
-        "comments_amount": 123,
-        "days_ago": 3
+        "topicsAmount": 12,
+        "commentsAmount": 123,
+        "daysAgo": 3
       },
       {
         "id": 5,
         "title": "Pregnancy and birth!!",
         "body": "Share your experience or ask questions about pregnancy and birth here!",
         "username": "secondchancesboutique",
-        "topics_amount": 12,
-        "comments_amount": 123,
-        "days_ago": 3
+        "topicsAmount": 12,
+        "commentsAmount": 123,
+        "daysAgo": 3
       },
       {
         "id": 6,
         "title": "I'm looking for... Kids' clothing and accessories",
         "body": "Are you looking for special garment for your baby or child? Here we share the items we're looking for. :)",
         "username": "secondchancesboutique",
-        "topics_amount": 12,
-        "comments_amount": 123,
-        "days_ago": 3
+        "topicsAmount": 12,
+        "commentsAmount": 123,
+        "daysAgo": 3
       },
       {
         "id": 7,
         "title": "I'm looking for... Kids' clothing and accessories",
         "body": "Are you looking for special garment for your baby or child? Here we share the items we're looking for. :)",
         "username": "secondchancesboutique",
-        "topics_amount": 12,
-        "comments_amount": 123,
-        "days_ago": 3
+        "topicsAmount": 12,
+        "commentsAmount": 123,
+        "daysAgo": 3
       },
       {
         "id": 8,
         "title": "I'm looking for... Kids' clothing and accessories",
         "body": "Are you looking for special garment for your baby or child? Here we share the items we're looking for. :)",
         "username": "secondchancesboutique",
-        "topics_amount": 12,
-        "comments_amount": 123,
-        "days_ago": 3
+        "topicsAmount": 12,
+        "commentsAmount": 123,
+        "daysAgo": 3
       }
     ]
   },
   {
-    "group_id": 3,
-    "group_title": "Vinted news",
+    "id": 3,
+    "title": "Vinted news",
     "forums": [
       {
         "id": 9,
         "title": "I'm looking for... Kids' clothing and accessories",
         "body": "Are you looking for special garment for your baby or child? Here we share the items we're looking for. :)",
         "username": "secondchancesboutique",
-        "topics_amount": 12,
-        "comments_amount": 123,
-        "days_ago": 3
+        "topicsAmount": 12,
+        "commentsAmount": 123,
+        "daysAgo": 3
       }
     ]
   }
